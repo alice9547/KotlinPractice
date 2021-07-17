@@ -1,4 +1,4 @@
-# viewBindind
+# viewBinding
 
 1. findViewById -> 보통 자바에서 사용
 
