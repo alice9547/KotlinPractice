@@ -1,0 +1,5 @@
+# Kotlin_MiniQuiz
+
+[4_1_1](Kotlin_MiniQuiz%205b01553d905e49dd8c1c78ce7af7bab9/4_1_1%2082af44ff65e6463392b0767f02003e16.md)
+
+[4_1_2](Kotlin_MiniQuiz%205b01553d905e49dd8c1c78ce7af7bab9/4_1_2%208321d8c9264944869fedf619c7cfe5c4.md)
